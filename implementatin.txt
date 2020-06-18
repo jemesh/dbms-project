@@ -1,0 +1,13 @@
+give a database name as (eventsite) hit on create button.
+
+8>after creating database name click on import.
+
+9>browse the file in directory[Event-site/db/event-management.sql].
+
+10>after importing successfully.
+
+11>open any browser and type http://localhost/event-management-master.
+
+12>first register and then login
+
+13>admin login details  Email=admin@gmail.com and Password=123456789
